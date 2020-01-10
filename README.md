@@ -1,1 +1,0 @@
-# kibana-vis-bootstrapTable
