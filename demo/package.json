@@ -1,0 +1,13 @@
+{
+  "name": "demo",
+  "version": "7.0.0",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint",
+    "start": "plugin-helpers start",
+    "test:server": "plugin-helpers test_server",
+    "test:browser": "plugin-helpers test_browser",
+    "build": "plugin-helpers build",
+    "postinstall": "plugin-helpers postinstall"
+  }
+}
